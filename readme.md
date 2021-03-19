@@ -19,18 +19,21 @@ A list of technologies used within the project:
 * [GIT bash]:  Version 2.31.0
 ***
 ## MCD
-
+ MCD.jpeg
 ***
 ## MPD
-
+ MPD.png
+***
 ## FAQs
 
 To insert the data from the csv file into the database:
-* click on
+* click on insert.sh
 
 To save the data from the database :
-* click on
+* click on create.sh
 
 To restore the data:
-* click on 
+* click on restore.sh
 
+To backup the data:
+* click on backup.sh
